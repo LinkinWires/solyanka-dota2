@@ -1,2 +1,2 @@
 # Solyanka
-Dota 2 fun mod with memes
+Фановый мод для Dota 2 с мемчиками
