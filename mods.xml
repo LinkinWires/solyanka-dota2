@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mods>
+	<mod name="Hand of Midas: Это мне?!">
+		<id>midas_papich</id>
+		<description>Добавляет к звуку Hand of Midas фразу Папича "Это мне?!". Как следствие, меняет звук кражи денег при срабатывании Jinada у Bounty Hunter.</description>
+		<file01>pak01_dir/sounds/items/item_handofmidas.vsnd_c</file01>
+	</mod>
+	<mod name="Axe: Culling Blade - Бах!">
+		<id>axe_cb_guri</id>
+		<description>Добавляет к звуку Culling Blade выкрик "Бах!" из самого быстрого гайда на Axe.</description>
+		<file01>pak01_dir/sounds/weapons/hero/axe/culling_blade_success.vsnd_c</file01>
+	</mod>
+	<mod name="Kunkka: Ghostship - Я российский новый пират">
+		<id>kunkka_gs_pist</id>
+		<description>Добавляет к звуку, который следует за кораблём, часть припева из песни Александра Пистолетова, в которой поётся: "А я российский новый пират!"</description>
+		<file01>pak01_dir/sounds/weapons/hero/kunkka/ability_ghost_ship.vsnd_c</file01>
+	</mod>
+	<mod name="Legion Commander: Duel - Гладиатор">
+		<id>lc_duel_pist</id>
+		<description>Изменят звук Duel на часть припева из песни Александра Пистолетова, в которой поётся: "Смертельная битва, руки словно биты, ногти словно бритвы, начался твой смертный бой!" Также добавляет ко звуку победы в Duel фразу "Fatality" из (Ultimate) Mortal Kombat 3.</description>
+		<file01>pak01_dir/sounds/weapons/hero/legion_commander/duel.vsnd_c</file01>
+		<file02>pak01_dir/sounds/weapons/hero/legion_commander/duel_fp.vsnd_c</file02>
+		<file03>pak01_dir/sounds/weapons/hero/legion_commander/duel_victory.vsnd_c</file03>
+	</mod>
+	<mod name="Snapfire: Тычка - Half-Life">
+		<id>sf_attack_hl1</id>
+		<description>Изменяет звук тычки на звуки дробовика из Half-Life.</description>
+		<file01>pak01_dir/sounds/weapons/hero/snapfire/preattack.vsnd_c</file01>
+		<file02>pak01_dir/sounds/weapons/hero/snapfire/attack.vsnd_c</file02>
+		<file03>pak01_dir/sounds/weapons/hero/snapfire/projectile_impact.vsnd_c</file03>
+	</mod>
+	<mod name="Snapfire: Scatterblast - Half-Life">
+		<id>sf_sb_hl1</id>
+		<description>Изменяет звук Scatterblast на звуки дробовика из официального HD Pack для Half-Life.</description>
+		<file01>pak01_dir/sounds/weapons/hero/snapfire/shotgun_load.vsnd_c</file01>
+		<file02>pak01_dir/sounds/weapons/hero/snapfire/shotgun_fire.vsnd_c</file02>
+	</mod>
+	<mod name="Snapfire: Gobble Up/Spit Out - Half-Life">
+		<id>sf_guso_hl1</id>
+		<description>Изменяет звук Spit Out на звук полёта миномёта из Half-Life. Рекомендуется изпользовать вместе с одноимённым модом для способности Mortimer Kisses.</description>
+		<file01>pak01_dir/sounds/weapons/hero/snapfire/spit_projectile.vsnd_c</file01>
+	</mod>
+	<mod name="Snapfire: Mortimer Kisses - Half-Life">
+		<id>sf_mk_hl1</id>
+		<description>Изменяет звук Mortimer Kisses на звуки RPG из Half-Life. Рекомендуется изпользовать вместе с одноимённым модом для способности Gobble Up/Spit Out.</description>
+		<file01>pak01_dir/sounds/weapons/hero/snapfire/lizard_blob_launch.vsnd_c</file01>
+		<file02>pak01_dir/sounds/weapons/hero/snapfire/lizard_blob_projectile.vsnd_c</file02>
+		<file03>pak01_dir/sounds/weapons/hero/snapfire/lizard_blob_impact.vsnd_c</file03>
+	</mod>
+	<mod name="Sven: God's Strength - Я сейчас убью всех">
+		<id>sven_gds_papich</id>
+		<description>Добавляет к звуку God's Strength фразу Папича "Я сейчас убью всех..."</description>
+		<file01>pak01_dir/sounds/weapons/hero/sven/gods_strength.vsnd_c</file01>
+	</mod>
+	<mod name="Timbersaw: Chakram - Поле чудес">
+		<id>ts_chakram_fow</id>
+		<description>Меняет звук Chakram на звук вращения барабана из капитал-шоу "Поле чудес". Также меняет звук Chakram с Rectifier на звук вращения барабана во время суперигры из того же шоу.</description>
+		<file01>pak01_dir/sounds/weapons/hero/shredder/chakra_cast.vsnd_c</file01>
+		<file02>pak01_dir/sounds/weapons/hero/shredder/chakra_spin_lp.vsnd_c</file02>
+		<file03>pak01_dir/sounds/weapons/hero/shredder/chakra_spin_lp_ti9.vsnd_c</file03>
+	</mod>
+	<mod name="Wraith King: Тычка - Ныа!">
+		<id>wk_attack_papich</id>
+		<description>Добавляет к звуку тычки выкрик Папича "Ныа!"</description>
+		<file01>pak01_dir/sounds/weapons/hero/skeleton_king/attack01.vsnd_c</file01>
+		<file02>pak01_dir/sounds/weapons/hero/skeleton_king/attack02.vsnd_c</file02>
+		<file03>pak01_dir/sounds/weapons/hero/skeleton_king/attack03.vsnd_c</file03>
+	</mod>
+	<mod name="Wraith King: Wraithfire Blast - Ныыыа!">
+		<id>wk_wfb_papich</id>
+		<description>Добавляет к звуку Wraithfire Blast более истошный выкрик Папича "Ныа!"</description>
+		<file01>pak01_dir/sounds/weapons/hero/skeleton_king/hellfire_blast.vsnd_c</file01>
+	</mod>
+	<mod name="Wraith King: Mortal Strike - НЫЫЫАААА!">
+		<id>wk_arc_ms_papich</id>
+		<description>Добавляет к звуку при убийстве с помощью Mortal Strike, который появляется, если надеть The One True King, уже прямо таки крик Папича "Ныа!"</description>
+		<file01>pak01_dir/sounds/weapons/hero/skeleton_king/arc_gesture.vsnd_c</file01>
+	</mod>
+	<mod name="Wraith King: Reincarnation - Я буду жить вечно">
+		<id>wk_reinc_papich</id>
+		<description>Добавляет к звуку срабатывания Reincarnation фразу Папича "Я не умру, я буду жить вечно!" и к звуку возрождения фразу Папича "Хех, здорова!" Также работает на The One True King.</description>
+		<file01>pak01_dir/sounds/weapons/hero/skeleton_king/reincarnate.vsnd_c</file01>
+		<file02>pak01_dir/sounds/music/stingers/reincarnate_03.vsnd_c</file02>
+		<file03>pak01_dir/sounds/weapons/hero/skeleton_king/reincarnate_arcana.vsnd_c</file03>
+		<file04>pak01_dir/sounds/weapons/hero/skeleton_king/arcana_stinger.vsnd_c</file04>
+	</mod>
+</mods>
