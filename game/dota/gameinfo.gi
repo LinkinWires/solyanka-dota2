@@ -40,8 +40,8 @@
 
 			// These are optional low-violence paths. They will only get mounted if you're in a low-violence mode.
 			Game_LowViolence	dota_lv
-			
-			Game 				solyanka
+
+			Game				solyanka
 			Game				dota
 			Game				core
 
@@ -243,5 +243,6 @@
 		SwapChainSampleableDepth 1
 		"VulkanUseSecondaryCommandBuffers"	"1" // Use secondary command buffers for more efficiency on tiled based renderers. All platforms to limit configurations.
 		"VulkanSteamShaderCache"			"1"
+		"OpenGLForceSM30"					"1"
 	}
 }
